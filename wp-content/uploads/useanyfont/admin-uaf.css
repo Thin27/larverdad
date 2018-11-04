@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'tolkien';
+				font-style: normal;
+				src: url('/laverdad/wp-content/uploads/useanyfont/181101061559Tolkien.eot');
+				src: local('tolkien'), url('/laverdad/wp-content/uploads/useanyfont/181101061559Tolkien.eot') format('embedded-opentype'), url('/laverdad/wp-content/uploads/useanyfont/181101061559Tolkien.woff') format('woff');
+			}
+            
+            .et_gf_tolkien{background:none !important;font-family:tolkien;text-indent:0 !important;font-size:25px;}
+            
+		
